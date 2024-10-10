@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJETOS\\CURSO COTI\\FinancasApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED78C604-53B4-4B9C-A9C0-17446AFC4029}|FinancasApp.WEB\\FinancasApp.WEB.csproj|d:\\projetos\\curso coti\\financasapp\\financasapp.web\\pages\\criarusuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED78C604-53B4-4B9C-A9C0-17446AFC4029}|FinancasApp.WEB\\FinancasApp.WEB.csproj|solutionrelative:financasapp.web\\pages\\criarusuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED78C604-53B4-4B9C-A9C0-17446AFC4029}|FinancasApp.WEB\\FinancasApp.WEB.csproj|d:\\projetos\\curso coti\\financasapp\\financasapp.web\\pages\\autenticarusuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED78C604-53B4-4B9C-A9C0-17446AFC4029}|FinancasApp.WEB\\FinancasApp.WEB.csproj|solutionrelative:financasapp.web\\pages\\autenticarusuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED78C604-53B4-4B9C-A9C0-17446AFC4029}|FinancasApp.WEB\\FinancasApp.WEB.csproj|d:\\projetos\\curso coti\\financasapp\\financasapp.web\\models\\criarusuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED78C604-53B4-4B9C-A9C0-17446AFC4029}|FinancasApp.WEB\\FinancasApp.WEB.csproj|solutionrelative:financasapp.web\\models\\criarusuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutenticarUsuario.razor",
+              "DocumentMoniker": "D:\\PROJETOS\\CURSO COTI\\FinancasApp\\FinancasApp.WEB\\Pages\\AutenticarUsuario.razor",
+              "RelativeDocumentMoniker": "FinancasApp.WEB\\Pages\\AutenticarUsuario.razor",
+              "ToolTip": "D:\\PROJETOS\\CURSO COTI\\FinancasApp\\FinancasApp.WEB\\Pages\\AutenticarUsuario.razor",
+              "RelativeToolTip": "FinancasApp.WEB\\Pages\\AutenticarUsuario.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T23:48:28.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CriarUsuario.razor",
+              "DocumentMoniker": "D:\\PROJETOS\\CURSO COTI\\FinancasApp\\FinancasApp.WEB\\Pages\\CriarUsuario.razor",
+              "RelativeDocumentMoniker": "FinancasApp.WEB\\Pages\\CriarUsuario.razor",
+              "ToolTip": "D:\\PROJETOS\\CURSO COTI\\FinancasApp\\FinancasApp.WEB\\Pages\\CriarUsuario.razor",
+              "RelativeToolTip": "FinancasApp.WEB\\Pages\\CriarUsuario.razor",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:17:35.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CriarUsuarioModel.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\CURSO COTI\\FinancasApp\\FinancasApp.WEB\\Models\\CriarUsuarioModel.cs",
+              "RelativeDocumentMoniker": "FinancasApp.WEB\\Models\\CriarUsuarioModel.cs",
+              "ToolTip": "D:\\PROJETOS\\CURSO COTI\\FinancasApp\\FinancasApp.WEB\\Models\\CriarUsuarioModel.cs",
+              "RelativeToolTip": "FinancasApp.WEB\\Models\\CriarUsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:40:37.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

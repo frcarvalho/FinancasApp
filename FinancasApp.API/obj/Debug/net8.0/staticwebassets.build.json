@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rMumuyTp5f5O8ZycvQCcikTGHCSTqnMuGtWVO3aI6MY=",
+  "Source": "FinancasApp.API",
+  "BasePath": "_content/FinancasApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
